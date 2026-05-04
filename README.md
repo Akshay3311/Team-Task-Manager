@@ -6,13 +6,13 @@ A full-stack web application that allows teams to manage projects, assign tasks,
 
 ## 🔗 Live Demo
 
-👉 [Add your deployed Railway URL here]
+👉 (http://app.Team.Task.Manager.com/)
 
 ---
 
 ## 📦 GitHub Repository
 
-👉 [Add your GitHub repo link here]
+👉 (https://github.com/Akshay3311/Team-Task-Manager)
 
 ---
 
@@ -98,16 +98,10 @@ JWT_SECRET=your_secret_key
 
 Deployed using Railway.
 
----
-
-## 🎥 Demo Video
-
-👉 [Add your demo video link here]
-
----
+------
 
 ## 👨‍💻 Author
 
-Your Name
+Akshay Kharpas
 
 ---
